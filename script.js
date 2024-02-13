@@ -10,7 +10,7 @@ let koncovka= "mujmail.com"
 document.body.innerHTML= jmeno + "." + prijmeni +"@"+ koncovka
 */
 
-let mail= "marta" + "." + "bakesova" + "@" + "mujmail.com"
+let mail= "marta" + "." + "bakesova" + "@mujmail.com"
 document.body.innerHTML += mail;
 
 //+= znamena pricti k puvodni i to nove (u cisle by se ale secetly)
